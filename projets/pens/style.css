@@ -1,0 +1,33 @@
+
+body {
+	background: #8A4B08;
+	color: white;
+}
+
+body > div {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 5px;
+	//min-width: 400px; 
+	//width: 100%;
+	//max-width: 100%;
+	background:#FFBF00;
+ border-radius:20px;
+}
+
+
+h1, p {
+	color: orange;
+}
+
+a {
+	color: green;
+}
+
+body > div > * {
+	flex:1;
+	min-width:400px;
+	margin:10px;
+    // max-height: 268px;
+}
+

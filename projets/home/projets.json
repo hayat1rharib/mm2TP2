@@ -1,0 +1,46 @@
+{
+    "projets": [
+        {
+            "nom": "Langues",
+            "dir": "../langues/index.html",
+            "description": "Pratique de l'utilisation des sélecteurs et de la mise en page avec CSS3.",
+            "Sujets": [
+                "CSS3",
+                "HTML5",
+                "Sélecteurs"
+            ]
+        },
+        {
+            "nom": "Pens",
+            "dir": "../pens/index.html",
+            "description": "Exercice que j'ai faits sur CodePan."
+        },
+        {
+            "nom": "YouTube",
+            "dir": "../youtube/youtube.html"
+        },
+        {
+            "nom": "Tutoriel+",
+            "dir": "../Tutoriel/index.html"
+        },
+        {
+            "nom": "Todo",
+            "dir": "../todo/index.html"
+        },
+        {
+            "nom": "Todo",
+            "att": "(orange)",
+            "dir": "../todo/index.html?skin=blue-on-orange"
+        },
+        {
+            "nom": "Todo",
+            "att": "(maron)",
+            "dir": "../todo/index.html?skin=yellow-on-maron"
+        },
+        {
+            "nom": "Todo",
+            "att": "(rose)",
+            "dir": "../todo/index.html?skin=bleu-on-rose"
+        }
+    ]
+}
